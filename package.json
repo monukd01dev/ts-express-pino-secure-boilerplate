@@ -1,7 +1,7 @@
 {
-  "name": "express-pino-secure-boilerplate",
+  "name": "ts-express-pino-secure-boilerplate",
   "version": "1.0.0",
-  "description": "express-pino-secure-boilerplate",
+  "description": "ts-express-pino-secure-boilerplate",
   "keywords": [
     "nodejs",
     "expressjs",
@@ -19,13 +19,13 @@
     "graceful-shutdown",
     "monukd01dev"
   ],
-  "homepage": "https://github.com/monukd01dev/express-pino-secure-boilerplate#readme",
+  "homepage": "https://github.com/monukd01dev/ts-express-pino-secure-boilerplate#readme",
   "bugs": {
-    "url": "https://github.com/monukd01dev/express-pino-secure-boilerplate/issues"
+    "url": "https://github.com/monukd01dev/ts-express-pino-secure-boilerplate/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monukd01dev/express-pino-secure-boilerplate.git"
+    "url": "git+https://github.com/monukd01dev/ts-express-pino-secure-boilerplate.git"
   },
   "license": "ISC",
   "author": "monukd01dev",
